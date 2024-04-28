@@ -21,7 +21,7 @@
     box-sizing: border-box;
 }
 .banner{
-    background-image: url(../images/image.png);
+    background-image: url(../images/Image.png);
     background-position:center;
     background-size: cover;
     height: 100vh;
